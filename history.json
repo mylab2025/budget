@@ -1,0 +1,18 @@
+[
+  {
+    "Amount": 50000,
+    "Reason": "Initial load",
+    "TransactionID": "TXN001",
+    "ProofFile": "https://github.com/youruser/budget/blob/main/proof_TXN001.png",
+    "Date": "2025-05-20",
+    "Comments": "Budget loaded for Q2"
+  },
+  {
+    "Amount": 100000,
+    "Reason": "Q3 allocation",
+    "TransactionID": "TXN002",
+    "ProofFile": "https://github.com/youruser/budget/blob/main/proof_TXN002.pdf",
+    "Date": "2025-06-15",
+    "Comments": "Approved by finance"
+  }
+]
