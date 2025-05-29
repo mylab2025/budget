@@ -16,11 +16,11 @@
     "Comments": "Approved by finance"
   },
   {
-    "Amount": 5000,
-    "Reason": "test",
-    "TransactionID": "test123",
-    "ProofFile": "https://raw.githubusercontent.com/mylab2025/budget/main/MyLabNotes1.pdf",
+    "Amount": 999,
+    "Reason": "",
+    "TransactionID": "",
+    "ProofFile": "",
     "Date": "2025-05-29",
-    "Comments": "Just testing"
+    "Comments": ""
   }
 ]
