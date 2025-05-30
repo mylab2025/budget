@@ -38,5 +38,13 @@
     "ProofFile": "",
     "Date": "2025-05-30",
     "Comments": "Q2 test load"
+  },
+  {
+    "Amount": 20,
+    "Reason": "second test",
+    "TransactionID": "TXXXXX",
+    "ProofFile": "",
+    "Date": "2025-05-30",
+    "Comments": "Second Test budget load."
   }
 ]
