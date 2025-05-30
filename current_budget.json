@@ -1,1 +1,5 @@
-{"Available":100,"Used":50,"Remaining":50}
+{
+  "Available": 120,
+  "Used": 50,
+  "Remaining": 70
+}
