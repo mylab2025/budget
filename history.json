@@ -46,5 +46,13 @@
     "ProofFile": "",
     "Date": "2025-05-30",
     "Comments": "Second Test budget load."
+  },
+  {
+    "Amount": 90,
+    "Reason": "just testing",
+    "TransactionID": "TXN123456789",
+    "ProofFile": "",
+    "Date": "2025-05-30",
+    "Comments": "Q2 testing again"
   }
 ]
