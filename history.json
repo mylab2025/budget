@@ -14,5 +14,13 @@
     "ProofFile": "",
     "Date": "2025-06-04",
     "Comments": "Just for testing"
+  },
+  {
+    "Amount": 1,
+    "Reason": "",
+    "TransactionID": "",
+    "ProofFile": "",
+    "Date": "2025-06-04",
+    "Comments": ""
   }
 ]
