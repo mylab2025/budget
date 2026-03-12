@@ -1,42 +1,12 @@
 [
+  
   {
     "Amount": 0,
-    "Reason": "",
-    "TransactionID": "",
+    "Reason": "Calibrated to Zero",
+    "TransactionID": "#0000000000",
     "ProofFile": "",
-    "Date": "",
-    "Comments": ""
-  },
-  {
-    "Amount": 100,
-    "Reason": "Initial Load",
-    "TransactionID": "TNXXXXXXXX",
-    "ProofFile": "",
-    "Date": "2025-06-04",
-    "Comments": "Just for testing"
-  },
-  {
-    "Amount": 99,
-    "Reason": "",
-    "TransactionID": "",
-    "ProofFile": "",
-    "Date": "2025-06-04",
-    "Comments": ""
-  },
-  {
-    "Amount": 1,
-    "Reason": "to round off",
-    "TransactionID": "123",
-    "ProofFile": "",
-    "Date": "2025-06-06",
-    "Comments": ""
-  },
-  {
-    "Amount": 50000,
-    "Reason": "Budget for Q12026",
-    "TransactionID": "#501234796",
-    "ProofFile": "",
-    "Date": "2025-12-19",
-    "Comments": "loaded by GK"
+    "Date": "2026-03-12",
+    "Comments": "Calibrated by MyLab Applications"
   }
+
 ]
