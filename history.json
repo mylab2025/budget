@@ -14,5 +14,13 @@
     "ProofFile": "https://raw.githubusercontent.com/mylab2025/budget/main/WhatsApp Image 2026-03-12 at 2.33.59 PM.jpeg",
     "Date": "2026-03-10",
     "Comments": "Rs. 4936 is loaded from EPFO Savings for MyLab."
+  },
+  {
+    "Amount": 5000,
+    "Reason": "2026 Budget",
+    "TransactionID": "109365787845",
+    "ProofFile": "https://raw.githubusercontent.com/mylab2025/budget/main/WhatsApp Image 2026-03-12 at 2.55.19 PM.jpeg",
+    "Date": "2026-03-12",
+    "Comments": "Rs. 5000 Earned from Freelancing PCB Designing - DC-DC BUCK Power Converter Board."
   }
 ]
