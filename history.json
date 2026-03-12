@@ -1,5 +1,4 @@
 [
-  
   {
     "Amount": 0,
     "Reason": "Calibrated to Zero",
@@ -7,6 +6,13 @@
     "ProofFile": "",
     "Date": "2026-03-12",
     "Comments": "Calibrated by MyLab Applications"
+  },
+  {
+    "Amount": 4936,
+    "Reason": "Loading Q1 Budget",
+    "TransactionID": "SBINN52026031058061955",
+    "ProofFile": "https://raw.githubusercontent.com/mylab2025/budget/main/WhatsApp Image 2026-03-12 at 2.33.59 PM.jpeg",
+    "Date": "2026-03-10",
+    "Comments": "Rs. 4936 is loaded from EPFO Savings for MyLab."
   }
-
 ]
