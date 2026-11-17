@@ -46,5 +46,13 @@
     "ProofFile": "https://raw.githubusercontent.com/mylab2025/budget/main/WhatsApp Image 2026-09-29 at 9.36.07 AM.jpeg",
     "Date": "2026-09-29",
     "Comments": "From the PF advance of total 16000, 7500 loading in Q4 budget."
+  },
+  {
+    "Amount": 3500,
+    "Reason": "For Audio DSP Purchase",
+    "TransactionID": "000000000000000",
+    "ProofFile": "",
+    "Date": "2026-11-17",
+    "Comments": "Budget loading only for mid-term purchase of AUDIO DSP Evaluation Kit."
   }
 ]
